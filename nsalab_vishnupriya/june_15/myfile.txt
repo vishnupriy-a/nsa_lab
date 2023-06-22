@@ -1,0 +1,11 @@
+1001 ram 97
+1002 neha 89
+1010 priya 77
+1025 rahul 65
+1012 arjun 99
+1013 nisha 76
+1021 RAM 36
+832 ram 78
+1021 vishnu 31
+1002 neha 89
+1021 vishnu 21

@@ -1,0 +1,1 @@
+cp myfile1.txt mycopyfile1.txt
